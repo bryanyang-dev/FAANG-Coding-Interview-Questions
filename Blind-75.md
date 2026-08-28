@@ -271,10 +271,10 @@ The original author curated this list based on:
 Use this checklist to track your progress:
 
 ### Arrays (10/10)
-- [ ] Two Sum
-- [ ] Best Time to Buy and Sell Stock
+- [x] Two Sum
+- [x] Best Time to Buy and Sell Stock
 - [ ] Contains Duplicate
-- [ ] Product of Array Except Self
+- [x] Product of Array Except Self
 - [ ] Maximum Subarray
 - [ ] Maximum Product Subarray
 - [ ] Find Minimum in Rotated Sorted Array
