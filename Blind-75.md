@@ -273,7 +273,7 @@ Use this checklist to track your progress:
 ### Arrays (10/10)
 - [x] Two Sum
 - [x] Best Time to Buy and Sell Stock
-- [ ] Contains Duplicate
+- [x] Contains Duplicate
 - [x] Product of Array Except Self
 - [ ] Maximum Subarray
 - [ ] Maximum Product Subarray
