@@ -290,7 +290,7 @@ Use this checklist to track your progress:
 - [ ] Reverse Bits
 
 ### Dynamic Programming (11/11)
-- [ ] Climbing Stairs
+- [x] Climbing Stairs
 - [ ] Coin Change
 - [ ] Longest Increasing Subsequence
 - [ ] Longest Common Subsequence
@@ -303,7 +303,7 @@ Use this checklist to track your progress:
 - [ ] Jump Game
 
 ### Graph (8/8)
-- [ ] Clone Graph
+- [x] Clone Graph
 - [ ] Course Schedule
 - [ ] Pacific Atlantic Water Flow
 - [ ] Number of Islands
@@ -346,18 +346,18 @@ Use this checklist to track your progress:
 - [ ] Encode and Decode Strings
 
 ### Tree (13/13)
-- [ ] Maximum Depth of Binary Tree
-- [ ] Same Tree
-- [ ] Invert Binary Tree
+- [x] Maximum Depth of Binary Tree
+- [x] Same Tree
+- [x] Invert Binary Tree
 - [ ] Binary Tree Maximum Path Sum
 - [ ] Binary Tree Level Order Traversal
 - [ ] Serialize and Deserialize Binary Tree
 - [ ] Subtree of Another Tree
-- [ ] Construct Binary Tree from Preorder and Inorder Traversal
+- [x] Construct Binary Tree from Preorder and Inorder Traversal
 - [ ] Validate Binary Search Tree
 - [ ] Kth Smallest Element in a BST
-- [ ] Lowest Common Ancestor of a Binary Search Tree
-- [ ] Implement Trie (Prefix Tree)
+- [x] Lowest Common Ancestor of a Binary Search Tree
+- [x] Implement Trie (Prefix Tree)
 - [ ] Design Add and Search Words Data Structure
 - [ ] Word Search II
 
