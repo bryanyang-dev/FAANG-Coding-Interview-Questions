@@ -275,12 +275,12 @@ Use this checklist to track your progress:
 - [x] Best Time to Buy and Sell Stock
 - [x] Contains Duplicate
 - [x] Product of Array Except Self
-- [ ] Maximum Subarray
-- [ ] Maximum Product Subarray
+- [x] Maximum Subarray
+- [x] Maximum Product Subarray
 - [ ] Find Minimum in Rotated Sorted Array
 - [ ] Search in Rotated Sorted Array
-- [ ] 3Sum
-- [ ] Container With Most Water
+- [x] 3Sum
+- [x] Container With Most Water
 
 ### Binary (5/5)
 - [ ] Sum of Two Integers
@@ -293,27 +293,27 @@ Use this checklist to track your progress:
 - [x] Climbing Stairs
 - [ ] Coin Change
 - [ ] Longest Increasing Subsequence
-- [ ] Longest Common Subsequence
+- [x] Longest Common Subsequence
 - [ ] Word Break
 - [ ] Combination Sum IV
-- [ ] House Robber
-- [ ] House Robber II
+- [x] House Robber
+- [x] House Robber II
 - [ ] Decode Ways
 - [ ] Unique Paths
 - [ ] Jump Game
 
 ### Graph (8/8)
 - [x] Clone Graph
-- [ ] Course Schedule
-- [ ] Pacific Atlantic Water Flow
-- [ ] Number of Islands
+- [x] Course Schedule
+- [x] Pacific Atlantic Water Flow
+- [x] Number of Islands
 - [ ] Longest Consecutive Sequence
 - [ ] Alien Dictionary
 - [ ] Graph Valid Tree
 - [ ] Number of Connected Components in an Undirected Graph
 
 ### Interval (5/5)
-- [ ] Insert Interval
+- [x] Insert Interval
 - [ ] Merge Intervals
 - [ ] Non-overlapping Intervals
 - [ ] Meeting Rooms
@@ -323,7 +323,7 @@ Use this checklist to track your progress:
 - [ ] Reverse Linked List
 - [ ] Detect Cycle in Linked List
 - [ ] Merge Two Sorted Lists
-- [ ] Merge k Sorted Lists
+- [x] Merge k Sorted Lists
 - [ ] Remove Nth Node From End of List
 - [ ] Reorder List
 
@@ -354,7 +354,7 @@ Use this checklist to track your progress:
 - [ ] Serialize and Deserialize Binary Tree
 - [ ] Subtree of Another Tree
 - [x] Construct Binary Tree from Preorder and Inorder Traversal
-- [ ] Validate Binary Search Tree
+- [x] Validate Binary Search Tree
 - [ ] Kth Smallest Element in a BST
 - [x] Lowest Common Ancestor of a Binary Search Tree
 - [x] Implement Trie (Prefix Tree)
