@@ -314,8 +314,8 @@ Use this checklist to track your progress:
 
 ### Interval (5/5)
 - [x] Insert Interval
-- [ ] Merge Intervals
-- [ ] Non-overlapping Intervals
+- [x] Merge Intervals
+- [x] Non-overlapping Intervals
 - [ ] Meeting Rooms
 - [ ] Meeting Rooms II
 
