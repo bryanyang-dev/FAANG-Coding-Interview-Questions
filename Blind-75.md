@@ -291,7 +291,7 @@ Use this checklist to track your progress:
 
 ### Dynamic Programming (11/11)
 - [x] Climbing Stairs
-- [ ] Coin Change
+- [x] Coin Change
 - [x] Longest Increasing Subsequence
 - [x] Longest Common Subsequence
 - [x] Word Break
