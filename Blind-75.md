@@ -316,8 +316,8 @@ Use this checklist to track your progress:
 - [x] Insert Interval
 - [x] Merge Intervals
 - [x] Non-overlapping Intervals
-- [ ] Meeting Rooms
-- [ ] Meeting Rooms II
+- [x] Meeting Rooms
+- [x] Meeting Rooms II
 
 ### Linked List (6/6)
 - [ ] Reverse Linked List
