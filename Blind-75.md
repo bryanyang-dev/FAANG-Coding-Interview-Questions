@@ -295,7 +295,7 @@ Use this checklist to track your progress:
 - [x] Longest Increasing Subsequence
 - [x] Longest Common Subsequence
 - [x] Word Break
-- [ ] Combination Sum IV
+- [x] Combination Sum IV
 - [x] House Robber
 - [x] House Robber II
 - [ ] Decode Ways
