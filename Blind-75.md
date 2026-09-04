@@ -292,22 +292,22 @@ Use this checklist to track your progress:
 ### Dynamic Programming (11/11)
 - [x] Climbing Stairs
 - [ ] Coin Change
-- [ ] Longest Increasing Subsequence
+- [x] Longest Increasing Subsequence
 - [x] Longest Common Subsequence
-- [ ] Word Break
+- [x] Word Break
 - [ ] Combination Sum IV
 - [x] House Robber
 - [x] House Robber II
 - [ ] Decode Ways
-- [ ] Unique Paths
-- [ ] Jump Game
+- [x] Unique Paths
+- [x] Jump Game
 
 ### Graph (8/8)
 - [x] Clone Graph
 - [x] Course Schedule
 - [x] Pacific Atlantic Water Flow
 - [x] Number of Islands
-- [ ] Longest Consecutive Sequence
+- [x] Longest Consecutive Sequence
 - [ ] Alien Dictionary
 - [ ] Graph Valid Tree
 - [ ] Number of Connected Components in an Undirected Graph
