@@ -350,7 +350,7 @@ Use this checklist to track your progress:
 - [x] Same Tree
 - [x] Invert Binary Tree
 - [x] Binary Tree Maximum Path Sum
-- [ ] Binary Tree Level Order Traversal
+- [x] Binary Tree Level Order Traversal
 - [ ] Serialize and Deserialize Binary Tree
 - [ ] Subtree of Another Tree
 - [x] Construct Binary Tree from Preorder and Inorder Traversal
