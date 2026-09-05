@@ -309,8 +309,8 @@ Use this checklist to track your progress:
 - [x] Number of Islands
 - [x] Longest Consecutive Sequence
 - [ ] Alien Dictionary
-- [ ] Graph Valid Tree
-- [ ] Number of Connected Components in an Undirected Graph
+- [x] Graph Valid Tree
+- [x] Number of Connected Components in an Undirected Graph
 
 ### Interval (5/5)
 - [x] Insert Interval
