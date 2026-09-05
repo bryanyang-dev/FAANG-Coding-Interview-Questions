@@ -334,7 +334,7 @@ Use this checklist to track your progress:
 - [ ] Word Search
 
 ### String (10/10)
-- [ ] Longest Substring Without Repeating Characters
+- [x] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
 - [ ] Minimum Window Substring
 - [ ] Valid Anagram
