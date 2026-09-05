@@ -362,7 +362,7 @@ Use this checklist to track your progress:
 - [ ] Word Search II
 
 ### Heap (3/3)
-- [ ] Merge k Sorted Lists
+- [x] Merge k Sorted Lists
 - [ ] Top K Frequent Elements
 - [ ] Find Median from Data Stream
 
