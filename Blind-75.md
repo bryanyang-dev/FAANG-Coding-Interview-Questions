@@ -342,7 +342,7 @@ Use this checklist to track your progress:
 - [ ] Valid Parentheses
 - [x] Valid Palindrome
 - [ ] Longest Palindromic Substring
-- [ ] Palindromic Substrings
+- [x] Palindromic Substrings
 - [ ] Encode and Decode Strings
 
 ### Tree (13/13)
