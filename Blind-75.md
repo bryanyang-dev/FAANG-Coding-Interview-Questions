@@ -355,7 +355,7 @@ Use this checklist to track your progress:
 - [x] Subtree of Another Tree
 - [x] Construct Binary Tree from Preorder and Inorder Traversal
 - [x] Validate Binary Search Tree
-- [ ] Kth Smallest Element in a BST
+- [x] Kth Smallest Element in a BST
 - [x] Lowest Common Ancestor of a Binary Search Tree
 - [x] Implement Trie (Prefix Tree)
 - [ ] Design Add and Search Words Data Structure
