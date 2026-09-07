@@ -340,7 +340,7 @@ Use this checklist to track your progress:
 - [x] Valid Anagram
 - [x] Group Anagrams
 - [ ] Valid Parentheses
-- [ ] Valid Palindrome
+- [x] Valid Palindrome
 - [ ] Longest Palindromic Substring
 - [ ] Palindromic Substrings
 - [ ] Encode and Decode Strings
