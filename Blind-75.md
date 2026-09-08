@@ -359,7 +359,7 @@ Use this checklist to track your progress:
 - [x] Lowest Common Ancestor of a Binary Search Tree
 - [x] Implement Trie (Prefix Tree)
 - [ ] Design Add and Search Words Data Structure
-- [ ] Word Search II
+- [x] Word Search II
 
 ### Heap (3/3)
 - [x] Merge k Sorted Lists
