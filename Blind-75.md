@@ -364,7 +364,7 @@ Use this checklist to track your progress:
 ### Heap (3/3)
 - [x] Merge k Sorted Lists
 - [x] Top K Frequent Elements
-- [ ] Find Median from Data Stream
+- [x] Find Median from Data Stream
 
 ---
 
