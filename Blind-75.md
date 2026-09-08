@@ -336,7 +336,7 @@ Use this checklist to track your progress:
 ### String (10/10)
 - [x] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
-- [ ] Minimum Window Substring
+- [x] Minimum Window Substring
 - [x] Valid Anagram
 - [x] Group Anagrams
 - [ ] Valid Parentheses
