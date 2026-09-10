@@ -322,7 +322,7 @@ Use this checklist to track your progress:
 ### Linked List (6/6)
 - [x] Reverse Linked List
 - [x] Detect Cycle in Linked List
-- [ ] Merge Two Sorted Lists
+- [x] Merge Two Sorted Lists
 - [x] Merge k Sorted Lists
 - [ ] Remove Nth Node From End of List
 - [ ] Reorder List
