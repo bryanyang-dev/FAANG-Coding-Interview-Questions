@@ -324,7 +324,7 @@ Use this checklist to track your progress:
 - [x] Detect Cycle in Linked List
 - [x] Merge Two Sorted Lists
 - [x] Merge k Sorted Lists
-- [ ] Remove Nth Node From End of List
+- [x] Remove Nth Node From End of List
 - [ ] Reorder List
 
 ### Matrix (4/4)
