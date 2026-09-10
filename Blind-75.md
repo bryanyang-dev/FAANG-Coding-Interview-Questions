@@ -308,7 +308,7 @@ Use this checklist to track your progress:
 - [x] Pacific Atlantic Water Flow
 - [x] Number of Islands
 - [x] Longest Consecutive Sequence
-- [ ] Alien Dictionary
+- [x] Alien Dictionary
 - [x] Graph Valid Tree
 - [x] Number of Connected Components in an Undirected Graph
 
