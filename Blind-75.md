@@ -320,7 +320,7 @@ Use this checklist to track your progress:
 - [x] Meeting Rooms II
 
 ### Linked List (6/6)
-- [ ] Reverse Linked List
+- [x] Reverse Linked List
 - [x] Detect Cycle in Linked List
 - [ ] Merge Two Sorted Lists
 - [x] Merge k Sorted Lists
